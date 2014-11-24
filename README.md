@@ -6,7 +6,7 @@ Vivo 安卓游戏
 ## Vivo安卓平台的的ANE
 
 * 参照官方DEMO所编写.
-* 特别提醒:此SDK使用了recter的RDT项目来生成apk, 如果不了解请访问(http://shadowkong.com/anti-adt).
+* 特别提醒:此SDK使用了recter的RDT项目来生成apk, 如果不了解请访问[anti-adt](http://shadowkong.com/anti-adt).
 * 此ANE调用DEMO在sample文件夹中.
 * 可直接使用项目中的ane.
 
